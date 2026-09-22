@@ -16,6 +16,23 @@
             color: #333;
         }
 
+        .section-heading {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.section-heading span {
+    color: #2563eb;
+    font-weight: bold;
+}
+
+.large-text {
+    font-size: 1.2rem;
+    line-height: 1.7;
+}
+
+
 .hero {
     background: linear-gradient(135deg, #0b1f33, #123b5d);
     color: white;
@@ -272,15 +289,29 @@
 
 <div class="container">
 
-    <div class="card">
+    <section class="card" id="about">
 
+    <div class="section-heading">
+        <span>01</span>
         <h2>About Me</h2>
-
-        <p>
-            Mechanical Engineering student at Kansas State University with internship experience in Manufacturing Engineering and Design Engineering at AGCO.
-        </p>
-
     </div>
+
+    <p class="large-text">
+        I am a Mechanical Engineering student at Kansas State University
+        with internship experience in both Manufacturing Engineering and
+        Design Engineering at AGCO.
+    </p>
+
+    <p>
+        My engineering interests include mechanical design, manufacturing,
+        automation, product development, and solving practical engineering
+        problems. Through my internship experience, I have worked on
+        projects involving additive manufacturing, process improvement,
+        fixtures, documentation, and Arduino-based monitoring systems.
+    </p>
+
+</section>
+
 
     <div class="card">
 
