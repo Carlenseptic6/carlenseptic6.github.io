@@ -292,12 +292,62 @@
             color: #003366;
         }
 
-        .project-image {
-            width: 100%;
-            max-width: 700px;
-            border-radius: 8px;
-            margin: 15px 0;
-        }
+        .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+    margin-top: 25px;
+}
+
+.project-card {
+    background: #f8fafc;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid #e2e8f0;
+    transition: 0.2s;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.project-image {
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+    display: block;
+}
+
+.project-content {
+    padding: 25px;
+}
+
+.project-category {
+    color: #2563eb;
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.project-content h3 {
+    color: #0b1f33;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 20px;
+}
+
+.tags span {
+    background: #dbeafe;
+    color: #1e40af;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
 
         ul {
             line-height: 1.8;
@@ -484,6 +534,107 @@
     </div>
 
 </section>
+
+<section class="card" id="projects">
+
+    <div class="section-heading">
+
+        <span>04</span>
+
+        <h2>Featured Projects</h2>
+
+    </div>
+
+
+    <div class="projects-grid">
+
+
+        <!-- WIRELESS RPM PROJECT -->
+
+        <article class="project-card">
+
+            <img
+                src="images/rpm-monitor.jpg"
+                alt="Wireless RPM monitoring system"
+                class="project-image"
+            >
+
+            <div class="project-content">
+
+                <p class="project-category">
+                    AUTOMATION & CONTROLS
+                </p>
+
+                <h3>
+                    Wireless RPM Monitoring System
+                </h3>
+
+                <p>
+                    Designed a wireless RPM monitoring solution using
+                    Arduino technology to provide rotational speed
+                    information for production equipment.
+                </p>
+
+                <div class="tags">
+
+                    <span>Arduino</span>
+
+                    <span>Sensors</span>
+
+                    <span>Wireless Monitoring</span>
+
+                </div>
+
+            </div>
+
+        </article>
+
+
+        <!-- ADDITIVE MANUFACTURING PROJECT -->
+
+        <article class="project-card">
+
+            <img
+                src="images/3d-printed-part.jpg"
+                alt="Additive manufactured replacement component"
+                class="project-image"
+            >
+
+            <div class="project-content">
+
+                <p class="project-category">
+                    MANUFACTURING ENGINEERING
+                </p>
+
+                <h3>
+                    Additive-Manufactured Replacement Components
+                </h3>
+
+                <p>
+                    Developed additive-manufactured replacement
+                    components that reduced replacement costs by
+                    over 90% while supporting production operations.
+                </p>
+
+                <div class="tags">
+
+                    <span>Additive Manufacturing</span>
+
+                    <span>CAD</span>
+
+                    <span>Cost Reduction</span>
+
+                </div>
+
+            </div>
+
+        </article>
+
+
+    </div>
+
+</section>
+
 
 
     <div class="card">
